@@ -1,2 +1,3 @@
-# onyo-grafana-dashboards
-Grafana Dashboards
+# Grafana Dashoars
+
+Grafana Dashboards used by Onyo
